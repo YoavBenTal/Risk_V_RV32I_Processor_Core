@@ -20,7 +20,4 @@ The processor implements the **base RV32I instruction set**, including:
 
 ### 🔳 Top-Level Block Diagram
 
-> 
-
-```md
 ![YARP Top Block Diagram](yarp_top_block_diagram.png)
